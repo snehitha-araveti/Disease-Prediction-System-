@@ -1,0 +1,8 @@
+DISEASE: asthma
+CORRECT: false
+TIMESTAMP: 1743477227619
+----------------------------
+DISEASE: ghjklk
+CORRECT: true
+TIMESTAMP: 1743652615153
+----------------------------

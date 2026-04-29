@@ -1,0 +1,18 @@
+MEDICAL DIAGNOSIS REPORT
+Generated: 2025-04-01 08:42:06
+
+=== PATIENT REPORTED SYMPTOMS ===
+fever
+headache
+cough
+
+=== DIAGNOSIS ===
+Condition: COVID-19
+ICD-10 Code: U07.1
+
+=== RECOMMENDED TREATMENT ===
+ • Antiviral therapy
+ • Symptomatic treatment
+
+=== WHEN TO SEEK HELP ===
+If oxygen saturation < 94% or difficulty breathing
