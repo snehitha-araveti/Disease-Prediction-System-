@@ -210,7 +210,7 @@ Main.java
 
 # Author
 
-**Your Name**
+snehitha araveti
 
 B.Tech Computer Science Engineering  
 Java OOP Case Study Project
